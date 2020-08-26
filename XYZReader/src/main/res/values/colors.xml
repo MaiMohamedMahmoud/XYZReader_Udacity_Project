@@ -1,0 +1,51 @@
+<!-- File created by the Android Action Bar Style Generator
+
+     Copyright (C) 2012 readyState Software Ltd
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    <color name="photo_placeholder">#ccc</color>
+
+
+<!--    <color name="colorPrimary">#3D8ECC</color>-->
+<!--    <color name="colorPrimaryDark">#3D8ECC</color>-->
+<!--    <color name="colorAccent">#3ECCAA</color>-->
+<!--    <color name="colorGray">#7C7C7C</color>-->
+<!--    <color name="colorWhite">#FFFF</color>-->
+
+<!--    <color name="colorPrimary">#A2666F</color>-->
+<!--    <color name="colorPrimaryDark">#A2666F</color>-->
+<!--    <color name="colorAccent">#f49390</color>-->
+<!--    <color name="colorGray">#7C7C7C</color>-->
+<!--    <color name="colorLightGray">#e5e5e5</color>-->
+
+    <color name="colorPrimary">#e45000</color>
+    <color name="colorPrimaryDark">#e45000</color>
+    <color name="colorAccent">#3d8dbe</color>
+    <color name="theme_accent">#76dd82</color>
+    <color name="ltgray">#1f3c40</color>
+<!--    <color name="wh">#f8f8f8</color>-->
+<!--    <color name="colorPrimary">#47061F</color>-->
+<!--    <color name="colorPrimaryDark">#380418</color>-->
+<!--    <color name="colorAccent">#8F6521</color>-->
+<!--    <color name="colorAccent2">#BAAA8F</color>-->
+<!--    <color name="color1">#134D4D</color>-->
+<!--    <color name="color3">#2DB3B3</color>-->
+<!--    <color name="color">#0097A7</color>-->
+<!--    <color name="color4">#3F51B5</color>-->
+<!--    <color name="color5">#B32D59</color>-->
+<!--    <color name="color6">#303F9F</color>-->
+<!--    <color name="color7">#8F8F8F</color>-->
+</resources>
