@@ -35,8 +35,9 @@
     <color name="colorPrimaryDark">#e45000</color>
     <color name="colorAccent">#3d8dbe</color>
     <color name="theme_accent">#76dd82</color>
-    <color name="ltgray">#1f3c40</color>
-<!--    <color name="wh">#f8f8f8</color>-->
+    <color name="color_text">#1f3c40</color>
+    <color name="light_gray">#6000</color>
+    <!--    <color name="wh">#f8f8f8</color>-->
 <!--    <color name="colorPrimary">#47061F</color>-->
 <!--    <color name="colorPrimaryDark">#380418</color>-->
 <!--    <color name="colorAccent">#8F6521</color>-->

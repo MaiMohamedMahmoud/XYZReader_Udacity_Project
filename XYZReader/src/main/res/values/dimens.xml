@@ -8,5 +8,9 @@
     <dimen name="fab_press_translation_z">6dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
     <dimen name="appbar_elevation">8dp</dimen>
+    <dimen name="photo_background_height">112dp</dimen>
+    <dimen name="article_title_padding">16dp</dimen>
+    <dimen name="article_title_padding_botton">4dp</dimen>
+    <dimen name="article_subtitle_padding">16dp</dimen>
 
 </resources>
